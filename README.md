@@ -22,14 +22,19 @@ Ekran Görüntüleri
 ***Ana Ekran***
 
 ![Ana Ekran](https://raw.githubusercontent.com/iscalik/iscalik.github.io/master/pardusAyar2/0.png?token=AFkGKZJ495hCSPlbv0xLd2_57P4OuXZVks5Va2PnwA==)
+
 Ana ekrandaki butonlar ile bilgi ve SSH, HTTP Sunucu, FTP Sunucu kontrolü sağlanabilir.
 
 ***Hakkımızda***
+
 ![Hakkımızda](https://raw.githubusercontent.com/iscalik/iscalik.github.io/master/pardusAyar2/1.png?token=AFkGKR9oywdHSJoCSEcRQpfPdIVXPNEwks5Va2QXwA==)
 
 İsmet Said Çalık <ismetsaid.calik@pardus.net.tr>
+
 Mehmet Nuri Öztürk <mehmetnuri.ozturk@pardus.net.tr>
+
 Erdoğan Bilgici <erdogan.bilgici@pardus.net.tr>
+
 
 
 Kurulumu
