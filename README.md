@@ -1,6 +1,6 @@
 Pardus Ayar 2.0
 ===========
-
+![PTS](http://portal.parduslinux.org/wp-content/uploads/2015/04/pardus-logo2.png)
 Özellikler
 --------
 - Hostname bilgisi
