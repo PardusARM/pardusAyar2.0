@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>info.png</file>
+    <file>reload.png</file>
+    <file>start.png</file>
+    <file>stop.png</file>
+  </qresource>
+  <qresource prefix="system">
+    <file>Power - Restart.png</file>
+    <file>Power - Shut Down.png</file>
+    <file>Power - Standby.png</file>
+    <file>Update.png</file>
+  </qresource>
+</RCC>
