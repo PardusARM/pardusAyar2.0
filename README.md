@@ -59,6 +59,7 @@ Kullanımı
     python ./main/main.py
 
 ***Destek***
+
 İsmet Said Çalık 
 <ismetsaid.calik@pardus.net.tr>
 http://calik.me
