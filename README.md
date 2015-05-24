@@ -23,6 +23,8 @@ Ekran Görüntüleri
 
 ![Ana Ekran](https://raw.githubusercontent.com/iscalik/iscalik.github.io/master/pardusAyar2/0.png?token=AFkGKZJ495hCSPlbv0xLd2_57P4OuXZVks5Va2PnwA==)
 
+![Ana Ekran](https://raw.githubusercontent.com/iscalik/iscalik.github.io/master/pardusAyar2/2.png?token=AFkGKTdjlvwL2O74868yCUQPz6n9z-ziks5Va2cbwA==)
+
 Ana ekrandaki butonlar ile bilgi ve SSH, HTTP Sunucu, FTP Sunucu kontrolü sağlanabilir.
 
 ***Hakkımızda***
